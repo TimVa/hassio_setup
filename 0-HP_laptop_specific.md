@@ -1,4 +1,4 @@
-## Additional commands for my HP 8460p laptop
+# Additional commands for my HP 8460p laptop
 
 ## Activate wireless button
 ```bash
