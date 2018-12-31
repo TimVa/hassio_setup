@@ -1,4 +1,4 @@
-Guide written for Debian 9.6
+Guide written to get Hassio installed on Debian 9.6
 ===
 
 ## Check version
@@ -48,7 +48,7 @@ sudo
 #log in as root"
 apt-get install sudo
 ```
-
+---
 ## Installation of hassio (on Debian)
 ```bash
 #Go step-by-step and ensure you have no errors
@@ -72,6 +72,7 @@ ifconfig
 # find the ip address
 # browse to http://<ipaddress>:8123
 ```
+---
 # Handy tools to install
 ## lm-sensors
 ```bash
