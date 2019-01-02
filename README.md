@@ -5,5 +5,6 @@ Written 31/12/2018
 * Get Debian 9.6 installed on your machine
 * Get [HASSIO](http://home-assistant.io) installed on your machine. [Instructions](https://github.com/TimVa/hassio_setup/blob/master/1-Installation%20guide%20after%20OS%20install.md)
 * Don't forget to get some machine specific things corrected
+* Fix your IP address [Instructions](https://github.com/TimVa/hassio_setup/blob/master/2-Fix%20IP%20address.md)
 
 **And don't forget to check [Awesome Home Assistant](https://www.awesome-ha.com)**
