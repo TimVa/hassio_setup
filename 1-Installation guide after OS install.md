@@ -60,8 +60,10 @@ apt-get install -y apparmor-utils apt-transport-https \
 
 curl -sSL https://get.docker.com | sh
 
-curl -sL "https://raw.githubusercontent.com/home-assistant/hassio-build/master/install/hassio_install" \
+<Archived>curl -sL "https://raw.githubusercontent.com/home-assistant/hassio-build/master/install/hassio_install" \
    | bash -s
+<Now>
+curl -sL "https://raw.githubusercontent.com/home-assistant/hassio-installer/master/hassio_install.sh" | bash -s
 ```
 
 
